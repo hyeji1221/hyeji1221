@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Project
-구글맵 api를 이용한 앱 프로젝트 : 2020.5.2 ~ 2020.6.1
+- 구글맵 api를 이용한 앱 프로젝트 : 2020.5.2 ~ 2020.6.1
 
-promotion_seoul 앱 프로젝트 : 2020.07.24 ~
+- promotion_seoul 앱 프로젝트 : 2020.07.24 ~
 
 #### Study
 
@@ -30,6 +30,5 @@ promotion_seoul 앱 프로젝트 : 2020.07.24 ~
 - 🌱 Kotlin study : 2020.11.08 ~
 
 #### To Be Started
-AWS study
-
-Deep learning study
+- AWS study
+- Deep learning study
