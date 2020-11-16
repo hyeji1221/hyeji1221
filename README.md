@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Project
-- 구글맵 api를 이용한 앱 프로젝트 : 2020.5.2 ~ 2020.6.1
 - promotion_seoul 앱 프로젝트 : 2020.07.24 ~
 
 #### Study
