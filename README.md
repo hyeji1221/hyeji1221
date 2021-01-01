@@ -18,18 +18,3 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeji1221)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeji1221&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Project
-- promotion_seoul 앱 프로젝트 
-
-#### Study
-
-- 🌱 Algorithm study 
-- 🌱 Node.js study 
-- 🌱 Oracle study
-- 🌱 Kotlin study 
-
-#### To Be Started
-- AWS study
-- Deep learning study
-- SQLD
