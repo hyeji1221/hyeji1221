@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lhg2615)](https://solved.ac/lhg2615) 
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyeji1221)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-stats-alpha.vercel.app/api?username=hyeji1221&cc=22272e&tc=11b1cc&ic=fff&bc=0000"/>
 
+**Main Research**
+- Computer Vision
+- Pattern Recognition
+- Biosignal
